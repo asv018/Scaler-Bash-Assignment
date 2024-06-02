@@ -27,7 +27,29 @@ This repository contains solutions for a Bash scripting assignment consisting of
 
 **Script Name**: `./question1.sh assignment.log`
 
-**Usage**:
-<!-- ```bash
-./log_analysis.sh /path/to/logfile -->
+
+### Question 2: Extract and Count File Types
+
+**Objective**: Write a script that counts and lists how many files of each type are present in a given directory.
+
+**Features Implemented**:
+1. **Traverse a specified directory recursively**
+2. **Identify file types based on file extensions.**
+3. **Count and list the number of files for each file type.**
+
+
+**Script Name**: `./question2.sh ./`
+
+### Question 3: Check Service Status
+
+**Objective**: Develop a script that checks if a specific system service (like Apache or SSH) is running and reports its status.
+
+**Features Implemented**:
+1. **Accept the service name as a command line argument.**
+2. **Use system commands to check if the service is active and running.**
+3. **Output the current status of the service.**
+
+
+
+**Script Name**: `./question3.sh whatsapp`
 
