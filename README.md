@@ -25,8 +25,9 @@ This repository contains solutions for a Bash scripting assignment consisting of
 2. **Percentage of Successful Requests**: Calculates and prints the percentage of successful requests (HTTP status codes in the range 200-299).
 3. **Most Active User**: Displays the IP address of the user who made the most requests.
 
-**Script Name**: `log_analysis.sh`
+**Script Name**: `./question1.sh assignment.log`
 
 **Usage**:
-```bash
-./log_analysis.sh /path/to/logfile
+<!-- ```bash
+./log_analysis.sh /path/to/logfile -->
+
